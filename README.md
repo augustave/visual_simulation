@@ -9,6 +9,10 @@ It is built for hardware programs that need matched outputs across two lanes:
 The core constraint is consistency. A component, hazard marking, and visual token should
 mean the same thing in the sim, the code, and the manual.
 
+
+![Whisk_jhotmzmtdl](https://github.com/user-attachments/assets/3da86259-bfd7-458d-8fab-3a7437f65b50)
+
+
 ## What Is Here
 
 - `SKILL.md`: the skill definition, operating protocol, triggers, and output contract
