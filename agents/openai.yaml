@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Simulation Ops"
+  short_description: "Matched XR, tech-pub, and style-guide outputs for hardware systems."
+  default_prompt: "Use $visual-systems-architect-simulation-ops to generate aligned simulation UI, S1000D-ready technical illustration outputs, and a shared visual language package for this hardware project."
