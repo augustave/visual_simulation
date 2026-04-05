@@ -1,4 +1,4 @@
-# Visual Simulation Ops
+# Visual Simulation Ops Skill
 
 This directory contains the `visual-systems-architect-simulation-ops` skill bundle.
 It is built for hardware programs that need matched outputs across two lanes:
